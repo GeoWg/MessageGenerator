@@ -24,4 +24,4 @@ function getMessage(){
     return message
 }
 
-console.log(getMessage());
+console.log(message);
